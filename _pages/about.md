@@ -6,7 +6,7 @@ permalink: /about/
   <br>
   <img src="/images/whoami.jpg">
 
-      <h1>echo $USER</h1>
+      #echo $USER
 
 <div style="text-align: left;"> 
 	
