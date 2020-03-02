@@ -10,22 +10,19 @@ permalink: /about/
 
 <div style="text-align: left;"> 
 
-Hello friend.
+<p>Hello friend.</p>
 
-This blog will be in a state of evolution and I thank you in advance for your patience.
+<p>This blog will be in a state of evolution and I thank you in advance for your patience.</p>
 
-In my day job, I work as a cybersecurity analyst in the healthcare and public health critical infrastructure sector; an industry of which I’ve worked throughout my adult life and it has formed my core values and ethics of who I am as a human and a professional.  You will observe that undertone in my writings.
+<p>In my day job, I work as a cybersecurity analyst in the healthcare and public health critical infrastructure sector; an industry of which I’ve worked throughout my adult life and it has formed my core values and ethics of who I am as a human and a professional.  You will observe that undertone in my writings.</p>
 
-I am also a woman.  This is an identity that I resisted to acknowledge in my early years, as I doubted it’s contribution to my professional development.  Life experiences have opened my eyes very widely since then and I will share experiences with you as deemed appropriate because after all, it is my position that the industry at large is about the greater good and protecting the vulnerable – not about gender.
+<p>I am also a woman.  This is an identity that I resisted to acknowledge in my early years, as I doubted it’s contribution to my professional development.  Life experiences have opened my eyes very widely since then and I will share experiences with you as deemed appropriate because after all, it is my position that the industry at large is about the greater good and protecting the vulnerable – not about gender.</p>
 
-Onto my alphabet soup:
+<p>Onto my alphabet soup:</p>
 
-Certifications and Training: <a href="https://www.eccouncil.org/wp-content/uploads/2016/07/CEHv10-Brochure.pdf/ “Certified Ethical Hacker”">Certified Ethical Hacker</a>, <a href="https://www.dsac.gov/events/integrated-analyst-symposium/ “Integrated Analyst (DSAC)">Integrated Analyst (DSAC)</a>, <a href="https://www.globalknowledge.com/us-en/course/91114/cybersec-first-responder-threat-detection-and-response/ “Cybersec First Responder">Cybersec First Responder</a>, and multiple threat detection security tool training sessions.
+<p>Certifications and Training: <a href="https://www.eccouncil.org/wp-content/uploads/2016/07/CEHv10-Brochure.pdf/ “Certified Ethical Hacker”">Certified Ethical Hacker</a>, <a href="https://www.dsac.gov/events/integrated-analyst-symposium/ “Integrated Analyst (DSAC)">Integrated Analyst (DSAC)</a>, <a href="https://www.globalknowledge.com/us-en/course/91114/cybersec-first-responder-threat-detection-and-response/ “Cybersec First Responder">Cybersec First Responder</a>, and multiple threat detection security tool training sessions.</p>
 
-Interests and Areas of Expertise: IoT Security, OSINT, threat detection, and threat intelligence.
+<p>Interests and Areas of Expertise: IoT Security, OSINT, threat detection, and threat intelligence.</p>
 
-I welcome you on this journey with me and look forward to growing with you.
-
-
-
+<p>I welcome you on this journey with me and look forward to growing with you.</p>
   </div>
