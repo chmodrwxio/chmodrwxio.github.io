@@ -23,9 +23,9 @@ code, pre {
 }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-$helvetica: 'Ubuntu Mono', Menlo, Monaco, Consolas, "Courier New", monospace;
+$helvetica: 'Ubuntu', Tahoma, sans-serif;
 $helveticaNeue: 'Ubuntu Mono', Menlo, Monaco, Consolas, "Courier New", monospace;
-$georgia: 'Ubuntu Mono', Menlo, Monaco, Consolas, "Courier New", monospace;
+$georgia: 'Ubuntu', Tahoma, sans-serif;
 
 html {
   font-size: 100%;
@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;'Ubuntu Mono', Menlo, Monaco, Consolas, "Courier New", monospace;
+  margin: 1em 0 15px;
   padding: 0;
   text-align: center;
 
