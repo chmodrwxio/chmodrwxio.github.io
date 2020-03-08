@@ -3,8 +3,9 @@ layout: page
 title: banner
 permalink: /banner/
 ---
+<article class="page">
 <br>
-  <center><img src="/images/donttrustcyber2.jpeg" style="height:250px;"/></center>
+  <center><img src="/images/donttrustcyber2.jpg" alt="banner" style="height:100px;"/></center>
 
       #Banner /etc/issue
 <article class="post detailed">
