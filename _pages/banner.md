@@ -1,6 +1,6 @@
 ---
 layout: page
-title: banner
+title: #Banner /etc/issue
 permalink: /banner/
 ---
 <article class="page">
@@ -42,7 +42,5 @@ agencies, both domestic and foreign.
 By continuing to use this system you indicate your awareness of and consent
 to these terms and conditions of use. **CLOSE THIS SITE IMMEDIATELY** if you do not
 agree to the conditions stated in this warning.
-
-**************************************************
 
   </div>
