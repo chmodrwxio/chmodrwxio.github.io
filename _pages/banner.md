@@ -3,9 +3,14 @@ layout: page
 title: #Banner /etc/issue
 permalink: /banner/
 ---
-<article class="page">
-<br>
-  <center><img src="/images/donttrustcyber2.jpg" alt="banner" style="height:100px;"/></center>
+<h1 align="center">
+  <br>
+  <img src="images/donttrustcyber2.jpeg">
+  <br>
+  <p align="center">
+    <div style="text-align: center;">
+      <center><h1>#Banner /etc/issue</h1></center>
+       <div class="404.md">
 
       #Banner /etc/issue
 <article class="post detailed">
