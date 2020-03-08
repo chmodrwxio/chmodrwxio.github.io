@@ -9,7 +9,7 @@ permalink: /banner/
    <div style="text-align: center;">
   
         #Banner /etc/issue
-     Read Time: 58 Seconds
+     <p>Read Time: 58 Seconds</p>
 <article class="post detailed">
   <center><h1>***NOTICE TO READERS***</h1></center>
 
