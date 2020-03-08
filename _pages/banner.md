@@ -17,7 +17,7 @@ permalink: /banner/
 herein are solely the views of the author and are not to be considered those of
 her employer; past, present, or future.</p>
 
-p>The contents of this site do not in any way – both explicitly or implicitly,
+<p>The contents of this site do not in any way – both explicitly or implicitly,
 intend to slander, harass, or otherwise cause harm to any individuals or
 brands discussed herein. This statement extends to their employers, family
 members, ET AL. This owner does not condone the use of this site’s contents for
