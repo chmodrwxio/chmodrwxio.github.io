@@ -11,7 +11,17 @@ permalink: /banner/
      <p>Read Time: 59 Seconds</p>
 <article class="post detailed">
   <center><h1>***NOTICE TO READERS***</h1></center>
+  <div style="text-align: left;">
 
+<p>This contents of this site are the sole property of its owner.  The statements made
+herein are solely the views of the author and are not to be considered those of
+her employer; past, present, or future.</p>
+
+p>The contents of this site do not in any way – both explicitly or implicitly,
+intend to slander, harass, or otherwise cause harm to any individuals or
+brands discussed herein. This statement extends to their employers, family
+members, ET AL. This owner does not condone the use of this site’s contents for
+the purposes of harassment on any level. The contents of this site are
 intended for informational and/or entertainment purposes only.</p>
 
 <p>By interacting with this site, the reader consents to not reproduce, redistribute,
