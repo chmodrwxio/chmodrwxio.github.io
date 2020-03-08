@@ -28,6 +28,6 @@ audited, inspected, and disclosed to authorized site, government, and law
 enforcement personnel, as well as authorized officials of government
 agencies, both domestic and foreign.</p>
 
-<p>By continuing to use this system you indicate your awareness of and consent
+<p>By continuing to interact with this site you indicate your awareness of and consent
 to these terms and conditions of use. <strong>CLOSE THIS SITE IMMEDIATELY</strong> if you do not
 agree to the conditions stated in this warning.</p>
