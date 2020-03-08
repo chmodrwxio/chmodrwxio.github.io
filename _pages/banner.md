@@ -1,6 +1,6 @@
 ---
 layout: page
-title: banner
+title: #Banner /etc/issue
 permalink: /banner/
 ---
 
@@ -8,7 +8,6 @@ permalink: /banner/
  
    <div style="text-align: center;">
   
-        #Banner /etc/issue
      <p>Read Time: 58 Seconds</p>
 <article class="post detailed">
   <center><h1>***NOTICE TO READERS***</h1></center>
