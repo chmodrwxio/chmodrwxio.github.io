@@ -3,6 +3,7 @@ layout: page
 title: #Banner /etc/issue
 permalink: /banner/
 ---
+<<<<<<< HEAD
 <h1 align="center">
   <br>
   <img src="images/donttrustcyber2.jpeg">
@@ -10,8 +11,7 @@ permalink: /banner/
   <p align="center">
     <div style="text-align: center;">
       <center><h1>#Banner /etc/issue</h1></center>
-       <div class="404.md">
-
+       <div class="banner.md">
       #Banner /etc/issue
 <article class="post detailed">
 <h1 align="center">
@@ -47,5 +47,3 @@ agencies, both domestic and foreign.
 By continuing to use this system you indicate your awareness of and consent
 to these terms and conditions of use. **CLOSE THIS SITE IMMEDIATELY** if you do not
 agree to the conditions stated in this warning.
-
-  </div>
