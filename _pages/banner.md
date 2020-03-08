@@ -3,19 +3,16 @@ layout: page
 title: #Banner /etc/issue
 permalink: /banner/
 ---
-<<<<<<< HEAD
-<h1 align="center">
+
   <br>
-  <img src="images/donttrustcyber2.jpeg">
-  <br>
-  <p align="center">
+  <center><img src="/images/donttrustcyber2.jpeg"></center>
+  <height=200px>
+    </br>
     <div style="text-align: center;">
-      <center><h1>#Banner /etc/issue</h1></center>
+  <center>#Banner /etc/issue</center>
        <div class="banner.md">
-      #Banner /etc/issue
 <article class="post detailed">
-<h1 align="center">
-  <h1>***NOTICE TO READERS***</h1>
+  <center><h1>***NOTICE TO READERS***</h1></center>
 
 This contents of this site are the sole property its owner.  The statements made
 herein are solely the views of the author and are not to be considered those of
@@ -47,3 +44,5 @@ agencies, both domestic and foreign.
 By continuing to use this system you indicate your awareness of and consent
 to these terms and conditions of use. **CLOSE THIS SITE IMMEDIATELY** if you do not
 agree to the conditions stated in this warning.
+
+</div>
