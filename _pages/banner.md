@@ -4,7 +4,7 @@ title: banner
 permalink: /banner/
 ---
 <br>
-  <center><img src="/images/donttrustcyber2.jpg" alt="banner" style="height:100px;"/></center>
+  <center><img src="/images/donttrustcyber2.jpeg" alt="banner" style="height:100px;"/></center>
 
       #Banner /etc/issue
 <article class="post detailed">
