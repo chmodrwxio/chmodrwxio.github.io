@@ -5,7 +5,7 @@ permalink: /banner/
 ---
 <article class="page">
 <br>
-  <center><img src="/images/donttrustcyber2.jpg" alt="banner" style="height:100px;"/></center>
+  <center><img src="images/donttrustcyber2.jpeg" alt="banner" style="height:100px;"/></center>
 
       #Banner /etc/issue
 <article class="post detailed">
@@ -42,5 +42,3 @@ agencies, both domestic and foreign.
 By continuing to use this system you indicate your awareness of and consent
 to these terms and conditions of use. **CLOSE THIS SITE IMMEDIATELY** if you do not
 agree to the conditions stated in this warning.
-
-  </div>
