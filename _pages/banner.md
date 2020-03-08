@@ -8,13 +8,11 @@ permalink: /banner/
  
    <div style="text-align: center;">
   
-     <p>Read Time: 58 Seconds</p>
+     <p>Read Time: 59 Seconds</p>
 <article class="post detailed">
   <center><h1>***NOTICE TO READERS***</h1></center>
 
-<p>This contents of this site are the sole property its owner.  The statements made
-herein are solely the views of the author and are not to be considered those of
-her employer; past, present, or future.</p>
+intended for informational and/or entertainment purposes only.</p>
 
 <p>By interacting with this site, the reader consents to not reproduce, redistribute,
 alter or use content from this site without prior expressed digital permission and/or
