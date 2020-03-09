@@ -49,7 +49,7 @@
         <p>Consequence: Finding support (or additional support) that does not exist.</p>
     <p>8. Motivational: Unintentionally concluding or seeing evidence a certain way due to internal motivation. (This can be seen demonstrated in professionals that overstate informational value or withhold information for the intention of looking valuable to an investigation or organization.)</p>
         <p>Consequence: This can reinforce unsupported beliefs (of an individual or group) and cause systematic mistakes.</p>
-        <p>2. See <a href="https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html" title="Operation Infektion">as a weaponized method to exploit this specific bias.</p>
+        <p>See <a href="https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html" title="Operation Infektion">Operation Infektion</a> as a weaponized method to exploit this specific bias.</p>
     <p>9. Assimilation: Using preexisting belief structures to evaluate new evidence or information. (<em>“Everyone is/thinks like me”</em>)</p>
         <p>Consequence: Risks the tendency to fall into the trap of “group think”</p>
 
