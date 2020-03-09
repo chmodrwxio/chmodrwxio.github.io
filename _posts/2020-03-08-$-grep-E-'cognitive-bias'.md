@@ -32,26 +32,26 @@
 
 <p>In no particular order, the different types of bias and potential consequences of each within the context of cybersecurity investigations are as follows:</p>
 
-    1. Anchoring: Relying too heavily (“anchoring”) on a trait or piece of information when making a decision.
-        1. Consequence: Human cognition struggles to move away from the initial assessment and consider additional informational
-    2. Absence of Evidence: Consideration of another hypothesis due to lack of evidence for the first. (I have also seen this conceptualized as “if I don’t see it, then it doesn’t exist)
-        1. Consequence: Fitting the evidence to a hypothesis, rather than developing a hypothesis that fits the evidence.
-    3. Confirmation: Looking for evidence that points to the expected answer and ignoring (or undervaluing) evidence that contradicts it. (Otherwise known as “cherry-picking”)
-        1. Consequence: Creates a “tunnel vision” for the analyst and avoids contradictory information.
-    4. Intuition: Cognitive shortcuts, influenced by emotions and experiences, used even when the evidence does not support them.
-        1. Consequence: Gives a greater emphasis to patters that may not exist than the evidence supports
-    5. Framing: Using surrounding circumstances to interpret the information, even if unwarranted. (An example to this that I’ve heard are beer commercials targeting age demographics by implying that drinking their beer will help them get beautiful women).
-        1. Consequence: If the “frame” is artificial or inappropriate to the investigation, it can distort the understanding of the data.
-        2. See my earlier comment re: AI as a possible counterbalance.
-    6. Representativeness: Judging whether something (someone) belongs to a specific category, and using stereotypes to predict what will happen
-        1. Consequence: This often results in inaccurate prototypes or stereotypes, which then become part of the analysis.
-    7. Misrepresenting Physical Evidence: Unintentionally misinterpreting physical evidence
-        1. Consequence: Finding support (or additional support) that does not exist.
-    8. Motivational: Unintentionally concluding or seeing evidence a certain way due to internal motivation. (This can be seen demonstrated in professionals that overstate informational value or withhold information for the intention of looking valuable to an investigation or organization.)
-        1. Consequence: This can reinforce unsupported beliefs (of an individual or group) and cause systematic mistakes.
-        2. See <a href="https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html" title="Operation Infektion">as a weaponized method to exploit this specific bias.
-    9. Assimilation: Using preexisting belief structures to evaluate new evidence or information. (<em>“Everyone is/thinks like me”</em>)
-        1. Consequence: Risks the tendency to fall into the trap of “group think”</p>
+   <p>1. Anchoring: Relying too heavily (“anchoring”) on a trait or piece of information when making a decision.</p>
+        <p>Consequence: Human cognition struggles to move away from the initial assessment and consider additional information.</p>
+    <p>2. Absence of Evidence: Consideration of another hypothesis due to lack of evidence for the first. (I have also seen this conceptualized as “if I don’t see it, then it doesn’t exist)</p>
+        Consequence: Fitting the evidence to a hypothesis, rather than developing a hypothesis that fits the evidence.
+    <p>3. Confirmation: Looking for evidence that points to the expected answer and ignoring (or undervaluing) evidence that contradicts it. (Otherwise known as “cherry-picking”)</p>
+        <p>Consequence: Creates a “tunnel vision” for the analyst and avoids contradictory information.</p>
+    <p>4. Intuition: Cognitive shortcuts, influenced by emotions and experiences, used even when the evidence does not support them.</p>
+        <p>Consequence: Gives a greater emphasis to patters that may not exist than the evidence supports.</p>
+    <p>5. Framing: Using surrounding circumstances to interpret the information, even if unwarranted. (An example to this that I’ve heard are beer commercials targeting age demographics by implying that drinking their beer will help them get beautiful women).</p>
+        <p>Consequence: If the “frame” is artificial or inappropriate to the investigation, it can distort the understanding of the data.</p>
+        <p>See my earlier comment re: AI as a possible counterbalance.</p>
+    <p>6. Representativeness: Judging whether something (someone) belongs to a specific category, and using stereotypes to predict what will happen.</p>
+        <p>Consequence: This often results in inaccurate prototypes or stereotypes, which then become part of the analysis.</p>
+    <p>7. Misrepresenting Physical Evidence: Unintentionally misinterpreting physical evidence.</p>
+        <p>Consequence: Finding support (or additional support) that does not exist.</p>
+    <p>8. Motivational: Unintentionally concluding or seeing evidence a certain way due to internal motivation. (This can be seen demonstrated in professionals that overstate informational value or withhold information for the intention of looking valuable to an investigation or organization.)</p>
+        <p>Consequence: This can reinforce unsupported beliefs (of an individual or group) and cause systematic mistakes.</p>
+        <p>2. See <a href="https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html" title="Operation Infektion">as a weaponized method to exploit this specific bias.</p>
+    <p>9. Assimilation: Using preexisting belief structures to evaluate new evidence or information. (<em>“Everyone is/thinks like me”</em>)</p>
+        <p>Consequence: Risks the tendency to fall into the trap of “group think”</p>
 
 <p>So now that I have rudely invited myself to the party and pointed out the turd in your punch bowl, what now?</p>
 
