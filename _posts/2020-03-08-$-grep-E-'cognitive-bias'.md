@@ -6,21 +6,23 @@
    <p>Read Time: 2 minutes 56 seconds</p>
     
 <article class="post detailed">
-  <center><h1>$ grep -E 'cognitive bias'</h1></center>
+   
+            $ grep -E 'cognitive bias'
+  
   <div style="text-align: left;">
-<p>There’s a specific question that is asked of industry peers in varying degrees – one I am guilty of asking as well – is _“how do I get started?”_</p>
+<p>There’s a specific question that is asked of industry peers in varying degrees – one I am guilty of asking as well – is <em>“how do I get started?”</em></p>
 
 <p>At this stage of my career, I would offer the following:</p>
 
 <p>Acknowledge to yourself that no matter how smart or skilled you think you are, the quality of your work result is directly connected to mindset and. No reasonable professional can believe that they are infallible of cognitive bias. The sooner you accept this, the better you will become.</p>
 
-<p>The United States Central Intelligence Agency defines Cognitive Bias as _“mental errors caused by our simplified information processing strategies.”_ The agency continues to explain that, _“..it is important to distinguish cognitive biases from other forms of bias, such as cultural bias, organizational bias, or bias that results from one's self-interest. In other words, a cognitive bias does not result from any emotional or intellectual predisposition toward a certain judgment, but rather from subconscious mental procedures for processing information. A cognitive bias is a mental error that is consistent and predictable.”_</p>
+<p>The United States Central Intelligence Agency defines Cognitive Bias as <em>“mental errors caused by our simplified information processing strategies.”</em> The agency continues to explain that, <em>“..it is important to distinguish cognitive biases from other forms of bias, such as cultural bias, organizational bias, or bias that results from one's self-interest. In other words, a cognitive bias does not result from any emotional or intellectual predisposition toward a certain judgment, but rather from subconscious mental procedures for processing information. A cognitive bias is a mental error that is consistent and predictable.”</em></p>
 
 <p>To state it concisely within the context of cybersecurity: Cognitive bias is an inherent preference for one choice over another on the act of the professional conducting the analysis. An interdependence of this concept is the mindset of the professional themselves; this defines preference despite its risk of inhibiting the holistic cognitive process altogether. These two concepts CONSTRUCT reality for the decision-makers instead of recording it.</p>
 
 <p>Not discussing this more is dangerous to yourself, your team, and your organization due to its propensity to introduce flawed intelligence caused by flawed analysis.</p>
 
-<p>_”So this is where we get our ROI on the machine learning and artificial intelligence tools we invested in, right?”_ #datELKdoe</p>
+<p><em>”So this is where we get our ROI on the machine learning and artificial intelligence tools we invested in, right?”</em> #datELKdoe</p>
 
 <center><img src="/images/ShiningLaugh.gif"></center>
 
@@ -48,7 +50,7 @@
     8. Motivational: Unintentionally concluding or seeing evidence a certain way due to internal motivation. (This can be seen demonstrated in professionals that overstate informational value or withhold information for the intention of looking valuable to an investigation or organization.)
         1. Consequence: This can reinforce unsupported beliefs (of an individual or group) and cause systematic mistakes.
         2. See <a href="https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html" title="Operation Infektion">as a weaponized method to exploit this specific bias.
-    9. Assimilation: Using preexisting belief structures to evaluate new evidence or information. (_“Everyone is/thinks like me”_)
+    9. Assimilation: Using preexisting belief structures to evaluate new evidence or information. (<em>“Everyone is/thinks like me”</em>)
         1. Consequence: Risks the tendency to fall into the trap of “group think”</p>
 
 <p>So now that I have rudely invited myself to the party and pointed out the turd in your punch bowl, what now?</p>
