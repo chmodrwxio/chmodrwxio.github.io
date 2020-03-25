@@ -1,4 +1,4 @@
-  <article class="post detailed">  
+<article class="post detailed">  
     
     <div style="text-align: center;">
 
