@@ -48,11 +48,11 @@
 
 <p><a href="https://osintframework.com/" title="OSINTFramework">OSINTFramework</a></p>
 
-<p><a href="https://start.me/p/b5Aow7/asint_collection" title="ASINT Collection”>ASINT Collection</a></p>
+<p><a href="https://start.me/p/b5Aow7/asint_collection" title="ASINT Collection">ASINT Collection</a></p>
 
-<p><a href="https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok" title="Bellingcat’s Online Investigation Toolkit”>Bellingcat’s Online Investigation Toolkit</a></p>
+<p><a href="https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok" title="Bellingcat’s Online Investigation Toolkit">Bellingcat’s Online Investigation Toolkit</a></p>
 
-<p><a href="https://www.osinttechniques.com/osint-tools.html" title="OSINT Tools”>OSINT Tools</a></p>
+<p><a href="https://www.osinttechniques.com/osint-tools.html" title="OSINT Tools">OSINT Tools</a></p>
 
 <p>I’ll see you on the battleground – maybe. I do like my socks.</p>
 
