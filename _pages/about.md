@@ -4,7 +4,7 @@ title: whoami
 permalink: /about/
 ---
   <br>
-  <img src="images/Mask.jpg" alt="whoami" style="width:300px;"/>
+  <img src="/images/Mask.jpg" alt="whoami" style="width:300px;"/>
 
       #whois $chmodrwxio
 
