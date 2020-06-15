@@ -14,7 +14,7 @@ permalink: /about/
 
 <p>This blog will be in a state of evolution and I thank you in advance for your patience.</p>
 
-<p>In my day job, I work as a cybersecurity analyst in the healthcare and public health critical infrastructure sector; an industry of which I’ve worked throughout my adult life and it has formed my core values and ethics of who I am as a human and a professional.  You will observe that undertone in my writings.</p>
+<p>$()dayjob: Cyber threat intelligence analyst with a background in the healthcare sector.  This has formed my core values and ethics of who I am as a human and a professional. You will observe that undertone in my writings.</p>
 
 <p>I am also a woman.  This is an identity that I resisted to acknowledge in my early years, as I doubted it’s contribution to my professional development.  Life experiences have opened my eyes very widely since then and I will share experiences with you as deemed appropriate because after all, it is my position that the industry at large is about the greater good and protecting the vulnerable – not about gender.</p>
 
